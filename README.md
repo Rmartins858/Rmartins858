@@ -4,7 +4,9 @@
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rmartins858&show_icons=true&theme=tokyonight)
 
-## Tecnologia que eu utilizo nos meus dias
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rmartins858)](https://github.com/anuraghazra/github-readme-stats)
+
+## Tecnologia que eu utilizo nos meus dias!!
 
 <div style="diplay: inline_block">
 <p align="left">
@@ -16,5 +18,4 @@
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 </p>
-
 </div>
