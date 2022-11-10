@@ -2,7 +2,7 @@
 ⭐️
 
 
-Bem-vindo ao meu GitHub! Estudante de desenvolvimento web. Quando não estou estudando ou programando, toco alguma música com contra-baixo, gosto de ler sobre aprimoramento pessoal e coletivo, adoro fazer coisas úteis e divertidas com programação, ouvir diferentes tipos de música, compartilhar com amigos e muito mais .
+Bem-vindo ao meu GitHub! Estudante de desenvolvimento web. Quando não estou estudando ou programando, toco alguma música com contra-baixo, gosto de ler sobre aprimoramento pessoal e coletivo. Adoro fazer coisas úteis e divertidas com programação, ouvir diferentes tipos de música. Compartilhar com amigos e muito mais .
 
 ### ✔️ Atualmente estou aprendendo
 - NoSQL ( mongodb )
