@@ -20,7 +20,7 @@ Bem-vindo ao meu GitHub! Estudante de desenvolvimento web. Quando não estou est
 - Me formei na Universidade Veiga de Almeida campos do Rio de Janeiro com bolça de 100%.
 
 ### 🛠 Interessado em:
-- Desktop, backend, games, arquitetura.
+- Desktop, Backend, Games, Frontend Arquitetura.
 
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-martins021/)
 
