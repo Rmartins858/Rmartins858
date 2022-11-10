@@ -12,7 +12,7 @@ Bem-vindo ao meu GitHub! Estudante de desenvolvimento web. Quando não estou est
 - Gosto de desafios, aprendizado, PROBLEMAS LÓGICOS, ajudar, compartilhar e conviver!!!
 
 ### 💡 Metas para 2023:
-- Aprender o básico de Java, python.
+- Aprender o básico de Java, Python.
 - Torne-se habilidoso em JavaScript, TypeScript.
 - Crescer como pessoa
 
