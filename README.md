@@ -14,10 +14,10 @@ Bem-vindo ao meu GitHub! Estudante de desenvolvimento web. Quando não estou est
 ### 💡 Metas para 2023:
 - Aprender o básico de Java, Python.
 - Torne-se habilidoso em JavaScript, TypeScript.
-- Crescer como pessoa
+- Crescer como pessoa.
 
 ### ⚡ Conquista relevante
-- Me formei na Universidade Veiga de Almeida campos do Rio de Janeiro com bolça de 100%
+- Me formei na Universidade Veiga de Almeida campos do Rio de Janeiro com bolça de 100%.
 
 ### 🛠 Interessado em:
 - Desktop, backend, games, arquitetura.
