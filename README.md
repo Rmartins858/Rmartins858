@@ -1,26 +1,26 @@
-## Ola, eu sou Rafael Martins ✌️ 
+## Olá, eu sou Rafael Martins ✌️ 
 ⭐️
 
-
-Bem-vindo ao meu GitHub! Estudante de desenvolvimento web. Quando não estou estudando ou programando, toco alguma música com contra-baixo, gosto de ler sobre aprimoramento pessoal e coletivo. Adoro fazer coisas úteis e divertidas com programação, ouvir diferentes tipos de música. Compartilhar com amigos e muito mais .
+Bem-vindo ao meu GitHub! Estudante de desenvolvimento web. Quando não estou estudando ou programando, toco alguma música com contra-baixo, gosto de ler sobre aprimoramento pessoal e coletivo. Adoro fazer coisas úteis e divertidas com programação, ouvir diferentes tipos de música. Compartilhar com amigos e muito mais.
 
 ### ✔️ Atualmente estou aprendendo
-- NoSQL ( mongodb )
-- POO ( programação orientada a objetos)
+- NoSQL (MongoDB)
+- POO (Programação Orientada a Objetos)
+- Google Data Analytics pela Coursera
 
 ### 😍 O que eu gosto de fazer:
-- Gosto de desafios, aprendizado, PROBLEMAS LÓGICOS, ajudar, compartilhar e conviver!!!
+- Gosto de desafios, aprendizado, problemas lógicos, ajudar, compartilhar e conviver!!!
 
-### 💡 Metas para 2023:
-- Aprender o básico de Java, Python.
-- Torne-se habilidoso em JavaScript, TypeScript.
-- Crescer como pessoa.
+### 💡 Metas para 2024:
+- Aprender o básico de Java e Python
+- Tornar-me habilidoso em JavaScript e TypeScript
+- Crescer como pessoa
 
 ### ⚡ Conquista relevante
-- Me formei na Universidade Veiga de Almeida campos do Rio de Janeiro com bolça de 100%.
+- Formado na Universidade Veiga de Almeida com bolsa de 100%
 
 ### 🛠 Interessado em:
-- Desktop, Backend, Games, Frontend Arquitetura.
+- Desktop, Backend, Games, Frontend Arquitetura
 
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-martins021/)
 
@@ -30,7 +30,7 @@ Bem-vindo ao meu GitHub! Estudante de desenvolvimento web. Quando não estou est
 
 ## Tecnologia que eu utilizo nos meus dias!!
 
-<div style="diplay: inline_block">
+<div style="display: inline_block">
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
